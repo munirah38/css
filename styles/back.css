@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header {
+    min-height: 30vh;
+    background-color: green;
+}
+main {
+    min-height: 70vh;
+    background-color: rgb(225, 225, 225);
+    width: 70%;
+    margin-inline: auto;
+    margin-top: -130px;
+    box-shadow: 0 0 5px gray;  
+ 
+}

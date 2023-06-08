@@ -1,0 +1,11 @@
+#box {
+    border: thick solid red;
+    height: 300px;
+    width: 50%;
+    padding: right 20px;
+    margin: 50px auto;
+    margin-left: auto;
+    margin-right: auto;
+    transition: 3s ease-in-out;
+
+}

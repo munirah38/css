@@ -1,0 +1,41 @@
+h1 {border: 5px solid;
+   color:gold;
+   text-align: center;
+   font-size: xx-large;
+   background-color: rgb(215, 121, 121);
+   background-image: url('../EjJcCx.jpg');
+   
+}
+
+
+
+
+
+
+#box {
+   border: thick solid silver;
+   width: 50%;
+   margin: 50px;
+   height: 70vh;
+   background-image: linear-gradient(rgba(12, 20, 69, 90%),rgba(0,0,0,80%),rgba(0, 0, 0,90%),rgba(20, 29, 38, 80%)),url('../20210530_150445.jpg');
+   background-size: cover;
+   
+}
+#box2 {
+   border: thin solid plum;
+   width: 50%;
+   height: 70vh;
+   background-image: linear-gradient(rgba(225, 0, 0, 50%), rgba(0, 0, 0, 70%)),url('../busy\ road.png');
+   background-size: cover;
+}
+#box3 {
+   border: thin solid plum;
+   width: 50%;
+   height: 70vh;
+   background-image: linear-gradient(rgba(255, 255, 255, 100%), rgba(0, 0, 0, 70%)),url('../busy\ road.png');
+   background-size: cover;
+   margin: 50px;
+
+   
+
+}

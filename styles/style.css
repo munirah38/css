@@ -1,0 +1,27 @@
+
+.para {
+    box-sizing: border-box;
+    color: tomato;
+    float: right;
+    padding: 5% 20px;
+    background-color: whitesmoke;
+    width: 30%;
+    min-height: 30vh;
+    box-shadow: inset 5px 5px 20px 10px palevioletred;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    border-radius: 10px;
+    border: thin solid #878787;
+    transition: 8s ease;
+}
+section{
+    display: flex;
+    gap: 30px;
+    justify-content: ;
+}
+img{
+    width: 50%;
+    display: block;
+    margin: auto;
+}
